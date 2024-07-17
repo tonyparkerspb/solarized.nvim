@@ -437,7 +437,7 @@ theme.loadPlugins = function()
 
         -- Indent Blankline
         IndentBlanklineChar =                   { fg = solarized.highlight },
-        IndentBlanklineContextChar =            { fg = solarized.disabled },
+        IndentBlanklineContextChar =            { fg = solarized.highlight },
 	
 	 -- Nvim dap
          DapBreakpoint =                         { fg = solarized.red },
